@@ -36,12 +36,6 @@
 
 ##
 
+![onodera-gustavo's Stats](https://github-readme-stats.vercel.app/api?username=onodera-gustavo&theme=gotham&show_icons=true&hide_border=false&count_private=true&card_width=400)
+![onodera-gustavo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=onodera-gustavo&theme=gotham&hide_border=false&card_width=400)
 ![onodera-gustavo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=onodera-gustavo&theme=gotham&show_icons=true&hide_border=false&layout=compact)
-
-##
-
-![onodera-gustavo's Stats](https://github-readme-stats.vercel.app/api?username=onodera-gustavo&theme=gotham&show_icons=true&hide_border=false&count_private=true)
-
-##
-
-![onodera-gustavo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=onodera-gustavo&theme=gotham&hide_border=false)
