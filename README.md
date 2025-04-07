@@ -21,9 +21,9 @@
   <img align="center" alt="ono-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="ono-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="ono-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img title="AWS" alt="AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png">
-  <img title="SQL" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png">
-  <img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">
+  <img title="AWS" alt="ono-AWS" height="30" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png">
+  <img title="SQL" alt="ono-SQL" height="30" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png">
+  <img title="VS Code" alt="ono-VS Code" height="30" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">
   
 ##
  
