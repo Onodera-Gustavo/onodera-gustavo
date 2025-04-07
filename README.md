@@ -6,10 +6,10 @@
 
 <h2 align="left">Sobre mim</h2>
 
-<p align="left">- 🤖 Codando desde a era Mezosoica.<br>
-  - :bulb: Atualmente estou estudando SQL.<br>
+<p align="left">- 🤖 Códigos sempre em andamento.<br>
+  - :bulb: Atualmente estou estudando Python.<br>
   - :trophy: Quero me tornar o melhor que posso ser.<br>
-  - :guitar: Gosto de tocar guitarra, desenhar e musuculação
+  - :guitar: Gosto de tocar guitarra, filosofia e musuculação
 </p>
 
 ##
@@ -21,7 +21,9 @@
   <img align="center" alt="ono-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="ono-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="ono-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
+  <img title="AWS" alt="AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png">
+  <img title="SQL" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png">
+  <img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">
   
 ##
  
