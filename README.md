@@ -6,7 +6,7 @@
 
 <h2 align="left">Sobre mim</h2>
 
-<p align="left">- 🤖 Códigos sempre em andamento.<br>
+<p align="left">- 🤖 Iterando, aprendendo, evoluindo..<br>
   - :bulb: Atualmente estou estudando Python.<br>
   - :trophy: Quero me tornar o melhor que posso ser.<br>
   - :guitar: Gosto de tocar guitarra, filosofia e musuculação
