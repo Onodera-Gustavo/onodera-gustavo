@@ -9,7 +9,7 @@
 - 🤖 Iterando, aprendendo e evoluindo.  
 - 💡 Atualmente estudando **Python** e explorando **Back-End**.  
 - 🧩 Busco ser o **melhor que posso ser** em tudo que faço.  
-- 🎸 Gosto de **guitarra**, **filosofia** e **musculação**.  
+- 💻 Gosto de **Leitura**, **Computação** e **musculação**.  
 - 🔥 Energia elétrica e mente inquieta, movido por **curiosidade e propósito**.  
 
 ---
