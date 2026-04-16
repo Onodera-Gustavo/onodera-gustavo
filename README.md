@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=F7C843&center=true&vCenter=true&width=700&lines=Pipelines+que+não+quebram+(geralmente).;Automação+que+economiza+horas.;SQL+que+faz+DBA+chorar+de+alegria.;Sempre+codando...e+codando.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=F7C843&center=true&vCenter=true&width=700&lines=Pipelines+que+não+quebram+(geralmente).;Automação+que+economiza+horas.;Sempre+codando...e+codando.)](https://git.io/typing-svg)
 
 </div>
 
