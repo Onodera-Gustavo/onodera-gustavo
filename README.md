@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=F7C843&center=true&vCenter=true&width=700&lines=Pipelines+que+não+quebram+(geralmente).;Automação+que+economiza+horas.;SQL+que+faz+DBA+chorar+de+alegria.;Sempre+iterando%2C+nunca+satisfeito.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=F7C843&center=true&vCenter=true&width=700&lines=Pipelines+que+não+quebram+(geralmente).;Automação+que+economiza+horas.;SQL+que+faz+DBA+chorar+de+alegria.;Sempre+codando...e+codando.)](https://git.io/typing-svg)
 
 </div>
 
@@ -22,29 +22,11 @@ Movido por curiosidade, propósito e muito brio.
 
 <div align="center">
 
-**Core**
+**Languages** &nbsp; <img src="https://skillicons.dev/icons?i=cs,python,php,js&theme=dark"/>
 
-<img src="https://skillicons.dev/icons?i=cs,python,php,js&theme=dark" />
+**Data & Backend** &nbsp; <img src="https://skillicons.dev/icons?i=django,nodejs,postgres&theme=dark"/> <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"/>
 
-**Data & Backend**
-
-<img src="https://skillicons.dev/icons?i=django,nodejs,postgres&theme=dark" />
-<img align="center" alt="SQL Server" height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"/>
-
-**Tooling**
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux&theme=dark" />
-
-</div>
-
-<div align="center">
-
-| Domínio | O que faço |
-|---|---|
-| 🔴 **Data Pipelines** | Ingestão, transformação e carga com C# e SQL Server |
-| 🟠 **Automação** | Robôs com Python + Selenium, integrações via webhooks |
-| 🟡 **Backend** | APIs com Django e Node, lógica de negócio pesada |
-| 🍷 **SQL** | Otimização de queries, índices, e sobrevivência ao Azure |
+**Tooling** &nbsp; <img src="https://skillicons.dev/icons?i=git,github,docker,linux&theme=dark"/>
 
 </div>
 
@@ -59,8 +41,20 @@ Movido por curiosidade, propósito e muito brio.
 ---
 
 <div align="center">
-  <img src="https://media1.tenor.com/m/Yj0-ERiuN8IAAAAC/tourist-moogus.gif" width="600"/>
+  <img src="https://media1.tenor.com/m/Yj0-ERiuN8IAAAAC/tourist-moogus.gif" width="500"/>
   <br/>
+</div>
+
+---
+
+## `> snake --contributions`
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/onodera-gustavo/onodera-gustavo/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/onodera-gustavo/onodera-gustavo/output/github-contribution-grid-snake.svg">
+    <img alt="Snake contribution grid" src="https://raw.githubusercontent.com/onodera-gustavo/onodera-gustavo/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ---
