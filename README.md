@@ -65,12 +65,9 @@ Movido por curiosidade, propósito e muito café.
 
 ---
 
-## `> ./moogus.exe`
-
 <div align="center">
   <img src="https://media1.tenor.com/m/Yj0-ERiuN8IAAAAC/tourist-moogus.gif" width="300"/>
   <br/>
-  <sub><i>eu debugando às 23h depois de descobrir que o bug era um vírgula</i></sub>
 </div>
 
 ---
