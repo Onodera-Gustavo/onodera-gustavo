@@ -50,24 +50,20 @@ Movido por curiosidade, propósito e muito café.
 
 ---
 
-## `> git stats`
+## `> git langs`
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=onodera-gustavo&show_icons=true&count_private=true&hide_border=true&title_color=F7C843&icon_color=E05000&text_color=c9d1d9&bg_color=0d1117&rank_icon=github" />
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onodera-gustavo&layout=compact&hide_border=true&title_color=F7C843&text_color=F7C843&bg_color=0d1117&langs_count=6" />
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=onodera-gustavo&theme=dark&hide_border=true&ring=F7C843&fire=E05000&currStreakLabel=F7C843&background=0D1117&sideLabels=F7C843)](https://git.io/streak-stats)
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onodera-gustavo&layout=compact&hide_border=true&title_color=F7C843&text_color=F7C843&bg_color=0d1117&langs_count=6" />
 </div>
 
 ---
 
+## `> ./moogus.exe`
+
 <div align="center">
   <img src="https://media1.tenor.com/m/Yj0-ERiuN8IAAAAC/tourist-moogus.gif" width="300"/>
   <br/>
+  <sub><i>eu debugando às 23h depois de descobrir que o bug era um vírgula</i></sub>
 </div>
 
 ---
