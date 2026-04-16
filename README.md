@@ -11,9 +11,9 @@
 ## `> whoami`
 
 ```
-Engenheiro de dados e automação na prática.
-Estudante de Ciência da Computação aprendendo na marra.
-Movido por curiosidade, propósito e muito café.
+Engenheiro de dados e automação.
+Estudante de Ciência da Computação.
+Movido por curiosidade, propósito e muito brio.
 ```
 
 ---
@@ -58,12 +58,9 @@ Movido por curiosidade, propósito e muito café.
 
 ---
 
-## `> ./moogus.exe`
-
 <div align="center">
-  <img src="https://media1.tenor.com/m/Yj0-ERiuN8IAAAAC/tourist-moogus.gif" width="300"/>
+  <img src="https://media1.tenor.com/m/Yj0-ERiuN8IAAAAC/tourist-moogus.gif" width="600"/>
   <br/>
-  <sub><i>eu debugando às 23h depois de descobrir que o bug era um vírgula</i></sub>
 </div>
 
 ---
