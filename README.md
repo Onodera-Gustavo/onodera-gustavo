@@ -1,70 +1,87 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F7C843&height=120&section=header"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F7C843&size=35&center=true&vCenter=true&width=1000&lines=Opa,+eu+sou+o+Gustavo,+bem+vindo!⚡)](https://git.io/typing-svg)
-
----
-
-## 🧠 Sobre mim
-
-- 🤖 Iterando, aprendendo e evoluindo.  
-- 💡 Atualmente estudando **Django** e explorando **Back-End**.  
-- 🧩 Busco ser o **melhor que posso ser** em tudo que faço.  
-- 💻 Gosto de **Leitura**, **Computação** e **musculação**.  
-- 🔥 Movido por **curiosidade e propósito**.  
-
----
-
-## ⚙️ Linguagens e Ferramentas
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="NextJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
-  <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" />
-  <img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-line-wordmark.svg" />
-  <img align="center" alt="Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
-</div>
-
----
-
-## 📊 Estatísticas
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F7C843,40:E05000,100:6B0A0A&height=160&section=header&text=Gustavo%20Sousa&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Data%20Engineer%20%7C%20Automation%20%7C%20Backend&descAlignY=60&descSize=18&descColor=F7C843"/>
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=onodera-gustavo&show_icons=true&count_private=true&hide_border=true&title_color=F7C843&icon_color=F7C843&text_color=c9d1d9&bg_color=0d1117" alt="Estatísticas de Gustavo"/>
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onodera-gustavo&layout=compact&hide_border=true&title_color=F7C843&text_color=F7C843&bg_color=0d1117"/>
-</div>
 
-[![Atividade recente](https://github-readme-activity-graph.vercel.app/graph?username=onodera-gustavo&bg_color=0d1117&color=F7C843&line=F7C843&point=FFD700&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=F7C843&center=true&vCenter=true&width=700&lines=Pipelines+que+não+quebram+(geralmente).;Automação+que+economiza+horas.;SQL+que+faz+DBA+chorar+de+alegria.;Sempre+iterando%2C+nunca+satisfeito.)](https://git.io/typing-svg)
 
----
-
-## 📬 Fale comigo!
-
-<div align="center">  
-  <a href="https://discord.com/channels/@me" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-F7C843?style=for-the-badge&logo=discord&logoColor=black">
-  </a>
-  <a href="mailto:gustavoisinreality@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-F7C843?style=for-the-badge&logo=gmail&logoColor=black">
-  </a>
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://img.wattpad.com/f01431dd0f9fc903466de55dc442c879b39fdfbe/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f6564704173624361636f727371773d3d2d36342e313630623734356330333938383538353138313434373539393336342e676966" width="90%">
-</div> 
+## `> whoami`
+
+```
+Engenheiro de dados e automação na prática.
+Estudante de Ciência da Computação aprendendo na marra.
+Movido por curiosidade, propósito e muito café.
+```
+
+---
+
+## `> tech --stack`
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/onodera-gustavo/onodera-gustavo/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/onodera-gustavo/onodera-gustavo/output/github-contribution-grid-snake.svg">
-    <img alt="Animação do grid de contribuições" src="https://raw.githubusercontent.com/onodera-gustavo/onodera-gustavo/output/github-contribution-grid-snake.svg">
-  </picture>
+
+**Core**
+
+<img src="https://skillicons.dev/icons?i=cs,python,php,js&theme=dark" />
+
+**Data & Backend**
+
+<img src="https://skillicons.dev/icons?i=django,nodejs,postgres&theme=dark" />
+<img align="center" alt="SQL Server" height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"/>
+
+**Tooling**
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux&theme=dark" />
+
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F7C843&height=120&section=footer"/>
+<div align="center">
+
+| Domínio | O que faço |
+|---|---|
+| 🔴 **Data Pipelines** | Ingestão, transformação e carga com C# e SQL Server |
+| 🟠 **Automação** | Robôs com Python + Selenium, integrações via webhooks |
+| 🟡 **Backend** | APIs com Django e Node, lógica de negócio pesada |
+| 🍷 **SQL** | Otimização de queries, índices, e sobrevivência ao Azure |
+
+</div>
+
+---
+
+## `> git stats`
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=onodera-gustavo&show_icons=true&count_private=true&hide_border=true&title_color=F7C843&icon_color=E05000&text_color=c9d1d9&bg_color=0d1117&rank_icon=github" />
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onodera-gustavo&layout=compact&hide_border=true&title_color=F7C843&text_color=F7C843&bg_color=0d1117&langs_count=6" />
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=onodera-gustavo&theme=dark&hide_border=true&ring=F7C843&fire=E05000&currStreakLabel=F7C843&background=0D1117&sideLabels=F7C843)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## `> ./moogus.exe`
+
+<div align="center">
+  <img src="https://media1.tenor.com/m/Yj0-ERiuN8IAAAAC/tourist-moogus.gif" width="300"/>
+  <br/>
+  <sub><i>eu debugando às 23h depois de descobrir que o bug era um vírgula</i></sub>
+</div>
+
+---
+
+## `> contact --me`
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/gustavoisinreality%40gmail.com-F7C843?style=for-the-badge&logo=gmail&logoColor=black)](mailto:gustavoisinreality@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6B0A0A?style=for-the-badge&logo=linkedin&logoColor=F7C843)](https://www.linkedin.com/in/gustavosousareal/)
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6B0A0A,60:E05000,100:F7C843&height=120&section=footer"/>
