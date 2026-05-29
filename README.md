@@ -13,7 +13,7 @@
 ```
 Engenheiro de dados e automação.
 Estudante de Ciência da Computação.
-Movido por curiosidade, propósito e muito brio.
+Movido por curiosidade e propósito.
 ```
 
 ---
